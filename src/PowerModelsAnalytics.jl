@@ -4,6 +4,8 @@ using InfrastructureModels
 using PowerModels
 using Memento
 
+using LightGraphs
+using MetaGraphs
 
 # Create our module level logger
 const LOGGER = getlogger(@__MODULE__)
